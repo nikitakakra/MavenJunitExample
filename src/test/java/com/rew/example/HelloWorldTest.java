@@ -10,7 +10,7 @@ public class HelloWorldTest {
 	public void test() {
 		HelloWorld helloTest = new HelloWorld();
 		String test = helloTest.helloWorld();
-		Assert.assertEquals("Hello World", test);
+		Assert.assertEquals("Hello Team", test);
 	}
 
 }
